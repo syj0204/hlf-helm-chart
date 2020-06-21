@@ -3,12 +3,12 @@ entries:
   hlf-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-06-21T17:37:12.857768+09:00"
+    created: "2020-06-21T17:54:19.362301+09:00"
     description: A Helm chart for Kubernetes
     digest: 82e1b233aedae60c900e579533828cddb79aaed770ed10129b528cdc412353f2
     name: hlf-helm-chart
     type: application
     urls:
-    - https://syj0204.github.io/hlf-helm-chart/stable/hlf-helm-chart-0.1.0.tgz
+    - https://syj0204.github.io/hlf-helm-chart/hlf-helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2020-06-21T17:37:12.856944+09:00"
+generated: "2020-06-21T17:54:19.361372+09:00"
