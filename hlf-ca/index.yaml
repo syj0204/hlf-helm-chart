@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hlf-ca:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-06-21T18:23:55.40889+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 4f6fea4867b4dd9f06746ad615c40a69b9bd3032d4fed1a818c92121d3c8be32
+    name: hlf-ca
+    type: application
+    urls:
+    - https://syj0204.github.io/hlf-helm-chart/hlf-ca/hlf-ca-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-21T18:23:55.407944+09:00"
